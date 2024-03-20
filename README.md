@@ -31,7 +31,7 @@ You can find a live demo of the project [here](#). Additionally, screenshots and
 
 ## Features
 
-- Manage customer orders
+- <b>Manage customer orders</b>
 - Track inventory and ingredient quantities
 - Generate reports for sales and revenue
 - User authentication and access control
