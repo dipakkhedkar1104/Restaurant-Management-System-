@@ -7,7 +7,13 @@
 <p>Nayana S</p>
 <p>Nandana S</p>
 <h2 >💻Introduction: </h2>
-Welcome to the Restaurant Management System project! This system aims to streamline the operations of restaurants, making it easier for restaurant owners and staff to manage orders, inventory, and customer information.
+<p>The Restaurant Management System Web Application is designed to streamline and optimize the operations of
+multiple restaurants, enhancing efficiency and customer experience. This system encompasses various modules to
+handle different aspects of restaurant management, including menu customization, food order and delivery
+management. The core features of the application include an user interface for customers to place orders seamlessly,
+real-time updates on order status, and integration with payment gateways for secure transactions. Additionally, the
+system offers tools for restaurant administrators to manage multiple restaurants, manage menus, order delivery and
+delivery person management.</p>
 
 ## Table of Contents
 
