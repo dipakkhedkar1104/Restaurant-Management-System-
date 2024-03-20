@@ -1,7 +1,7 @@
 # Restaurant Management System
 
-<H2>Team TVM Members:</H2>
-<p>Dipak Khedkar ( Team Leader )</p>
+<H2>Team</H2>
+<p>Dipak Khedkar (Team Leader)</p>
 <p>Nagesh W</p>
 <p>Ajit Tone</p>
 <p>Nayana S</p>
